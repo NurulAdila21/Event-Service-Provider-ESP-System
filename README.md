@@ -10,4 +10,4 @@ This project is a web-based platform for the community who want to arrange any e
 2) Dashboard
 3) Order
 
-For this project, I will be incharged in third modulsubsystem. This subsystem enables the customers, vendors and admin to manage the orders. The customer can add the  interested service to cart, make payment once the service confirmed, confirm the service status once received and rate the service provided by the vendor while the vendor will be able post the service offered and receive payment once the service delivered to the customer.
+For this project, I will be incharged in third subsystem. This subsystem enables the customers, vendors and admin to manage the orders. The customer can add the  interested service to cart, make payment once the service confirmed, confirm the service status once received and rate the service provided by the vendor while the vendor will be able post the service offered and receive payment once the service delivered to the customer.

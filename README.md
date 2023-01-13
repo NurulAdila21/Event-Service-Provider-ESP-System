@@ -6,6 +6,9 @@ Project Description:
 
 This project is a web-based platform for the community that provide variety of services for an event such as wedding, birthday celebration, farewell party, graduation and etc. There are 3 type of user involve in this system which are the client, vendor, and admin. The vendor are allowed to post and market their services in the system, the client can book and use any services provided by the vendors, and the admin is responsible to monitor and manage all activities in the system. This subsystem can be divided into three modules as follows:
 
+![Module Reservation drawio (1)](https://user-images.githubusercontent.com/116774793/212411103-623e7e63-0f83-4026-ba0f-211c2f4497a4.png)
+
+
 1) Cart Module
 2) Booking Module
 3) Payment Module
